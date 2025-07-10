@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dike Joshua
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning Golang
+- 👀 I’m interested in Go
+- 🌱 I’m currently looking for a Go developer Job
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: dikejoshua@gmail.com
 
